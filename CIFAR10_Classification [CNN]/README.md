@@ -1,6 +1,6 @@
 ## Project Name
 
-#### Image Classification With ANN
+#### Image Classification With CNN
 
 ![Fashion](./cifar.jpeg)
 
