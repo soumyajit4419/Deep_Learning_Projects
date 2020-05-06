@@ -8,12 +8,16 @@
 ## Project Description
 * Classifing if an image is a cat or a dog using CNN(Convolutional Neural Network.)
 
-* This Model is trained with 8000 images of cats and dogs and tested with 2000 images.
+* I have build a CNN model from scratch without using Transfer Learning
 
+* This Model is trained with 22500 images of cats and dogs and tested with 2500 images.
+
+* This Model has an validation accuracy of 81.61%.
 
 ### Methods Used
 * Deep Learning
 * Machine Learning
+* CNN
 
 
 ### Technologies 
@@ -22,8 +26,7 @@
 * Tensorflow
 
 
-##### Data Set:-
-https://drive.google.com/drive/folders/1hwHClxWI6Tcfva7dpQZRy9NO1NiX1Zdz?usp=sharing
+
 
 
 
