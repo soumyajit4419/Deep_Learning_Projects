@@ -14,9 +14,9 @@ I hope that you would enjoy while checking out those repositories related to ML,
 | | | | |
 |`Irish Poem Lyrics Auto Generation`|`RNN`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Irish_Poem_Lyrics_Generation%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
-|`Classifying Cat and Dog`|`CNN` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Cat_Dog_Classification%20%5BCNN%5D)|
+|`Classifying Cat and Dog`|`CNN` |`Keras`, `Tensorflow`, `sklearn`, `numpy`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Cat_Dog_Classification%20%5BCNN%5D)|
 | | | | |
-|`CIFAR10 Classification`|`CNN` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/CIFAR10_Classification%20%5BCNN%5D)|
+|`CIFAR10 Classification`|`CNN`, `Transfer Learning` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`,`VGG19`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/CIFAR10_Classification%20%5BCNN%5D)|
 | | | | |
 |`Hand Written Digit Classification`|`ANN`|`Pandas`, `Keras`, `Tensorflow`, `Numpy`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Digit_Classification%20%5BANN%5D)|
 | | | | |
@@ -24,6 +24,7 @@ I hope that you would enjoy while checking out those repositories related to ML,
 | | | | |
 |`Stock Price Prediction`|`RNN`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Google_Stock_Price_Prediction%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
-
+|`Horse Human Classification`|`CNN`, `Transfer Learning` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`InceptionV3`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Horse_Human_Classifier%20%5BCNN%20%E2%81%84%20Transfer_Learning%5D)|
+| | | | |
 
 
