@@ -1,6 +1,7 @@
 ## Project Name
 
 #### Text Classification With RNN/LSTM
+#### Text Classifcation using Transformer
 #### Sarcasim Prediction using news headlines
 
 
