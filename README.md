@@ -10,7 +10,7 @@ I hope that you would enjoy while checking out those repositories related to ML,
 
 |__PROJECT__|__METHOD__|__LIB__|__REPO__|
 |-|-|-|-|
-|`Sarcasm Prediction From News Headlines`|`RNN`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `Transformer`,`BERT`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Sarcasm_Prediction_News_Headlines%20%5BRNN%20%E2%81%84%20LSTM%5D)|
+|`Sarcasm Prediction From News Headlines`|`BERT`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `Transformer`,`BERT`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Sarcasm_Prediction_News_Headlines%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
 |`Irish Poem Lyrics Auto Generation`|`RNN`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Irish_Poem_Lyrics_Generation%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
@@ -26,5 +26,6 @@ I hope that you would enjoy while checking out those repositories related to ML,
 | | | | |
 |`Horse Human Classification`|`CNN`, `Transfer Learning` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`InceptionV3`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Horse_Human_Classifier%20%5BCNN%20%E2%81%84%20Transfer_Learning%5D)|
 | | | | |
-
+|`Customer Churn Prediction`|`ANN` |`Keras`, `Tensorflow`, `sklearn`, `Pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Horse_Human_Classifier%20%5BCNN%20%E2%81%84%20Transfer_Learning%5D)|
+| | | | |
 
