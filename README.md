@@ -10,7 +10,7 @@ I hope that you would enjoy while checking out those repositories related to ML,
 
 |__PROJECT__|__METHOD__|__LIB__|__REPO__|
 |-|-|-|-|
-|`Sarcasm Prediction From News Headlines`|`RNN`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Sarcasm_Prediction_News_Headlines%20%5BRNN%20%E2%81%84%20LSTM%5D)|
+|`Sarcasm Prediction From News Headlines`|`RNN`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `Transformer`,`BERT`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Sarcasm_Prediction_News_Headlines%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
 |`Irish Poem Lyrics Auto Generation`|`RNN`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Irish_Poem_Lyrics_Generation%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
