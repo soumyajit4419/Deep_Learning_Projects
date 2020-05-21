@@ -5,12 +5,17 @@
 
 
 ## Project Description
-* Predicting of a news is sarcastic or not using text preprocesing and NLP libraries of keras and tensorflow and testing accuracy with diffrent types of RNN models.Globe Embedding is used to prevent overfitting and improve the accuracy of the model.
+* Detection Using Normal RNN and LSTM
+* Detection Using Bidirectional LSTM With Globe Embedding
+* Detection Using BERT Transformer
+
+Best Accuracy is given by BERT i.e 91% 
 
 
 ### Methods Used
 * Deep Learning
 * Machine Learning
+* NLP Transformer
 
 
 ### Technologies 
