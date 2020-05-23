@@ -26,6 +26,6 @@ I hope that you would enjoy while checking out those repositories related to ML,
 | | | | |
 |`Horse Human Classification`|`CNN`, `Transfer Learning` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`InceptionV3`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Horse_Human_Classifier%20%5BCNN%20%E2%81%84%20Transfer_Learning%5D)|
 | | | | |
-|`Customer Churn Prediction`|`ANN` |`Keras`, `Tensorflow`, `sklearn`, `Pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Horse_Human_Classifier%20%5BCNN%20%E2%81%84%20Transfer_Learning%5D)|
+|`Customer Churn Prediction`|`ANN` |`Keras`, `Tensorflow`, `sklearn`, `Pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Customer_exit_prediction%20%5BANN%5D)|
 | | | | |
 
