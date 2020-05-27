@@ -12,6 +12,8 @@ I hope that you would enjoy while checking out those repositories related to ML,
 |-|-|-|-|
 |`Sarcasm Prediction From News Headlines`|`BERT`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `Transformer`,`BERT`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Sarcasm_Prediction_News_Headlines%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
+|`Hotel Description Generation`| `LSTM` |`Keras`, `Tensorflow`, `sklearn`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Hotel_Description_Generation%20%5BLSTM%5D)|
+| | | | |
 |`Irish Poem Lyrics Auto Generation`|`RNN`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Irish_Poem_Lyrics_Generation%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
 |`Classifying Cat and Dog`|`CNN` |`Keras`, `Tensorflow`, `sklearn`, `numpy`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Cat_Dog_Classification%20%5BCNN%5D)|
