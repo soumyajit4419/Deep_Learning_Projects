@@ -30,4 +30,5 @@ I hope that you would enjoy while checking out those repositories related to ML,
 | | | | |
 |`Customer Churn Prediction`|`ANN` |`Keras`, `Tensorflow`, `sklearn`, `Pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Customer_exit_prediction%20%5BANN%5D)|
 | | | | |
-
+|`Pytorch`|`Implementation of various models in pytorch` |`Linear Regression`, `Logistic Regresssion`, `Neural Network`, `GPU` `Pytorch`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Pytorch)|
+| | | | |
