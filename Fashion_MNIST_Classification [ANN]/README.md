@@ -6,16 +6,19 @@
 
 
 ## Project Description
-* Multi Class Classifing of Fashion MNIST Dataset using ANN(Artificial Neural Network.)
+* Simple Feed forward neural network using Tensorflow and Keras
+* Simple Fedd forward neural network using Pytorch
+* CNN Architecture using Pytorch
+* CNN Using Tensorflow
 
 
 ### Methods Used
 * Deep Learning
-* Machine Learning
+* Working with images
 
 
 ### Technologies 
-* Python
 * Keras
 * Tensorflow
+* Pytorch
  

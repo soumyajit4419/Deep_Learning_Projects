@@ -22,7 +22,7 @@ I hope that you would enjoy while checking out those repositories related to ML,
 | | | | |
 |`Hand Written Digit Classification`|`ANN`|`Pandas`, `Keras`, `Tensorflow`, `Numpy`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Digit_Classification%20%5BANN%5D)|
 | | | | |
-|`Fashion MNIST Classification`|`ANN` |`Keras`, `Tensorflow`, `Pandas`, `Numpy`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Fashion_MNIST_Classification%20%5BANN%5D)|
+|`Fashion MNIST Classification`|`ANN` ,`CNN` |`Keras`, `Tensorflow`, `Pytorch`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Fashion_MNIST_Classification%20%5BANN%5D)|
 | | | | |
 |`Stock Price Prediction`|`RNN`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Google_Stock_Price_Prediction%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
@@ -30,5 +30,5 @@ I hope that you would enjoy while checking out those repositories related to ML,
 | | | | |
 |`Customer Churn Prediction`|`ANN` |`Keras`, `Tensorflow`, `sklearn`, `Pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Customer_exit_prediction%20%5BANN%5D)|
 | | | | |
-|`Pytorch`|`Implementation of various models in pytorch` |`Linear Regression`, `Logistic Regresssion`, `Neural Network`, `GPU` `Pytorch`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Pytorch)|
+|`Pytorch`|`Implementation of various models in pytorch` |`Linear Regression`, `Logistic Regresssion`, `Neural Network`, `GPU` ,`CNN`, `Pytorch`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Pytorch)|
 | | | | |
