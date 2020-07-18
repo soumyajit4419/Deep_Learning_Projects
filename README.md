@@ -20,6 +20,8 @@ I hope that you would enjoy while checking out those repositories related to ML,
 | | | | |
 |`CIFAR10 Classification`|`CNN`, `Transfer Learning` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`,`VGG19`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/CIFAR10_Classification%20%5BCNN%5D)|
 | | | | |
+|`CIFAR100 Classification`|`CNN`,`Hyperparamter Tunning`,`Image Augmentation`,`Trasfer Learning` |`PyTorch`,`Resnet`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Cifar_100_%5BImproving%20Accuracy%20Step%20by%20Step%20using%20Pytorch%5D)|
+| | | | |
 |`Hand Written Digit Classification`|`ANN`|`Pandas`, `Keras`, `Tensorflow`, `Numpy`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Digit_Classification%20%5BANN%5D)|
 | | | | |
 |`Fashion MNIST Classification`|`ANN` ,`CNN` |`Keras`, `Tensorflow`, `Pytorch`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Fashion_MNIST_Classification%20%5BANN%5D)|
