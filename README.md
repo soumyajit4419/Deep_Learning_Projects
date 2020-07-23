@@ -37,8 +37,8 @@ You can check  out the project and impementation related to various  Deep Learni
 
 
 ## Understanding and Applying Neural Networks 
-|__PROJECT__|__CONTENT__|__LIB__|__REPO__|
+|__PROJECT__|__CONTENT__|__LIB__|__LINK__|
 |-|-|-|-|
-|`Deep Learning With PyTorch`|`Regression`, `FeedForward NN`, `Cnn`, `Gans` |`PyTorch`|[Repository]()|
+|`Deep Learning With PyTorch`|`Regression`, `FeedForward NN`, `Cnn`, `Gans` |`PyTorch`|[Link](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/DeepLearning_With_PyTorch)|
 | | | | |
-|`NLP Using PyTorch`|`Text Classification`, `LSTM`, `Transformer`, `Seq2seq` |`PyTorch`|[Repository]()|
+|`NLP Using PyTorch`|`Text Classification`, `LSTM`, `Transformer`, `Seq2seq` |`PyTorch`|[Link](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/NLP_With_PyTorch)|
