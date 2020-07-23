@@ -2,17 +2,19 @@
 ## Introduction
 ---
 
-This repository is a collection of different  Deep Learning projects using various library available in Keras ans Tensorflow and build some intresting models using Deep Learning.
+This repository is a collection of different  Deep Learning projects using various library available in Keras ans Tensorflow and PyTorch to build some intresting models using Deep Learning.
 
-I hope that you would enjoy while checking out those repositories related to ML,And Deep Learning on the table below.
+You can check  out the project and impementation related to various  Deep Learning Methods on the table below.
 
 
-
+## Some Beginner Projects Related To Deep Learning
 |__PROJECT__|__METHOD__|__LIB__|__REPO__|
 |-|-|-|-|
 |`Sarcasm Prediction From News Headlines`|`BERT`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `Transformer`,`BERT`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Sarcasm_Prediction_News_Headlines%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
 |`Hotel Description Generation`| `LSTM` |`Keras`, `Tensorflow`, `sklearn`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Hotel_Description_Generation%20%5BLSTM%5D)|
+| | | | |
+|`Image Generation`|`GANS` |`PyTorch`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Image_Generation%5BCNN%20%E2%81%84%20GAN%5D)|
 | | | | |
 |`Irish Poem Lyrics Auto Generation`|`RNN`, `LSTM` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Irish_Poem_Lyrics_Generation%20%5BRNN%20%E2%81%84%20LSTM%5D)|
 | | | | |
@@ -30,9 +32,13 @@ I hope that you would enjoy while checking out those repositories related to ML,
 | | | | |
 |`Horse Human Classification`|`CNN`, `Transfer Learning` |`Keras`, `Tensorflow`, `sklearn`, `numpy`,`InceptionV3`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Horse_Human_Classifier%20%5BCNN%20%E2%81%84%20Transfer_Learning%5D)|
 | | | | |
-|`Image Generation`|`GANS` |`PyTorch`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Image_Generation%5BCNN%20%E2%81%84%20GAN%5D)|
-| | | | |
 |`Customer Churn Prediction`|`ANN` |`Keras`, `Tensorflow`, `sklearn`, `Pandas`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Customer_exit_prediction%20%5BANN%5D)|
 | | | | |
-|`Pytorch`|`Implementation of various models in pytorch` |`Linear Regression`, `Logistic Regresssion`, `Neural Network`, `GPU` ,`CNN`, `Pytorch`|[Repository](https://github.com/soumyajit4419/Deep_Learning_Projects/tree/master/Pytorch)|
+
+
+## Understanding and Applying Neural Networks 
+|__PROJECT__|__CONTENT__|__LIB__|__REPO__|
+|-|-|-|-|
+|`Deep Learning With PyTorch`|`Regression`, `FeedForward NN`, `Cnn`, `Gans` |`PyTorch`|[Repository]()|
 | | | | |
+|`NLP Using PyTorch`|`Text Classification`, `LSTM`, `Transformer`, `Seq2seq` |`PyTorch`|[Repository]()|
