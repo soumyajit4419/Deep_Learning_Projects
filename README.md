@@ -4,7 +4,7 @@
 
 This repository is a collection of different  Deep Learning projects using various library available in Keras ans Tensorflow and PyTorch to build some intresting models using Deep Learning.
 
-You can check  out the project and impementation related to various  Deep Learning Methods on the table below.
+You can check  out the project and implementation related to various  Deep Learning Methods on the table below.
 
 
 ## Some Beginner Projects Related To Deep Learning
